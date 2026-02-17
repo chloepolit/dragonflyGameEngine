@@ -1,0 +1,40 @@
+[01:38:21] GameManager::startUp() - starting up managers...
+[01:38:21] WorldManager::startUp() - OK
+[01:38:21] DisplayManager::startUp() - OK
+[01:38:21] InputManager::startUp() - OK
+[01:38:21] GameManager::startUp() - all managers started OK
+[01:38:21] Vector tests complete.
+[01:38:21] Clock tests complete.
+[01:38:21] ObjectList tests complete.
+[01:38:21] Event tests complete.
+[01:38:21] LogManager test: plain string
+[01:38:21] LogManager test: integer 42
+[01:38:21] LogManager test: float 3.14
+[01:38:21] LogManager test: string hello
+[01:38:21] LogManager tests complete.
+[01:38:21] Object::Object() - created object id 1
+[01:38:21] Object::~Object() - destroying object id 1
+[01:38:21] Object tests complete.
+[01:38:21] Object::Object() - created object id 2
+[01:38:21] Object::Object() - created object id 3
+[01:38:21] Object::~Object() - destroying object id 2
+[01:38:21] Object::~Object() - destroying object id 3
+[01:38:21] WorldManager tests complete.
+[01:38:21] Object::Object() - created object id 4
+[01:38:21] Object::~Object() - destroying object id 4
+[01:38:21] Step event tests complete.
+[01:38:21] Object::Object() - created object id 5
+[01:38:21] Object::Object() - created object id 6
+[01:38:21] Object::~Object() - destroying object id 5
+[01:38:21] Object::~Object() - destroying object id 6
+[01:38:21] Event dispatch tests complete.
+[01:38:21] Object::Object() - created object id 7
+[01:38:21] GameManager::run() - entering game loop at 30 Hz
+[01:38:21] GameManager::run() - exited game loop after 3 steps
+[01:38:21] Object::~Object() - destroying object id 7
+[01:38:21] Game loop test complete.
+[01:38:21] GameManager::shutDown() - shutting down managers...
+[01:38:21] InputManager::shutDown() - OK
+[01:38:21] DisplayManager::shutDown() - OK
+[01:38:21] WorldManager::shutDown() - OK
+[01:38:21] GameManager::shutDown() - done
